@@ -19,3 +19,4 @@ int main() {
     cout << "Single number is: " << sol.singleNumber(nums) << endl;
     return 0;
 }
+                                                 

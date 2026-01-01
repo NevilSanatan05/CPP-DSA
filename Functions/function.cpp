@@ -73,7 +73,6 @@
 //   return 0;
 // }
 
-
 // #include <iostream>
 // using namespace std;
 
@@ -92,5 +91,3 @@
 //   cout<<"Sum of digits is "<<sumOfDigits(123);
 //   return 0;
 // }
-
-

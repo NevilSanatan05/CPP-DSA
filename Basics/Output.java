@@ -15,14 +15,24 @@
 // }
 
 //Variables
-public class Output {
-  public static void main(String[] args) {
-    int a = 10;
-    System.out.println(a);
-    // int y;
-    // y=20;
-    // System.out.println(y);
-    a=20;
-    System.out.println(a);
-  }
-}
+// public class Output {
+//   public static void main(String[] args) {
+//     int a = 10;
+//     System.out.println(a);
+//     // int y;
+//     // y=20;
+//     // System.out.println(y);
+//     a=20;
+//     System.out.println(a);
+//   }
+// }
+
+//Modifying calues of a variable
+// public class Output {
+//   public static void main(String[] args) {
+//     int x = 7;
+//     System.out.println(x);
+//     x = x + 2;
+//     System.out.println(x);
+//   }
+// }
